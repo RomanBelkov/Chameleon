@@ -1,4 +1,5 @@
-Chameleon
-=========
+#Chameleon
+This is repository for Chameleon robot based on TRIK platform. 
 
-4 semestr
+Original code is taken from [here](https://github.com/angelina-khubaeva/Chameleon).
+

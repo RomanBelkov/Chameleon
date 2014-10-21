@@ -45,8 +45,8 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
-    <Reference Include="Trik.Observable">
-      <HintPath>C:\Users\Angelina\Documents\Visual Studio 2013\Projects\RoboTest\Trik.Observable.dll</HintPath>
+    <Reference Include="Trik.Core">
+      <HintPath>..\trik-sharp (GitHub for Windows)\Source\bin\Release\Trik.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
